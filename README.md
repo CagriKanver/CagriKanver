@@ -2,7 +2,7 @@
 👀 I’m interested in software development, AI technologies, and open-source projects.
 🌱 I’m currently learning advanced machine learning techniques and blockchain development.
 💞️ I’m looking to collaborate on innovative tech solutions and community-driven coding projects.
-📫 How to reach me: cagri.kanver@example.com
+📫 How to reach me: cagrikanver@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m a coffee enthusiast who codes best after a fresh brew!
 
